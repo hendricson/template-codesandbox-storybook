@@ -1,7 +1,7 @@
 
 # Codesandbox's CRA + Storybook
 
-This is a template based on the official CRA React/Typescript template from Codesandbox with Storybook added via `npx sb init`
+This is a template based on the official CRA React/Typescript template from Codesandbox with Storybook added via `npx sb init`, updated to latest stable react-scripts + webpack 5.
 
 ## Quick start
 
@@ -36,4 +36,4 @@ This is a template based on the official CRA React/Typescript template from Code
 
 ## Versioning
 
-Version number is the same as in the original React/Typescript template
+Version number is the same as in the original React/Typescript template.
