@@ -43,6 +43,10 @@
     "not op_mini all"
   ],
   "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
     "overrides": [
       {
         "files": [
