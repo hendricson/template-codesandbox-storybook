@@ -11,7 +11,7 @@ This is a template based on the official CRA React/Typescript template from Code
 
     ```shell
     # Clone the template
-    npx degit chromaui/intro-storybook-react-template taskbox
+    npx degit hendricson/template-codesandbox-storybook your-storybook
     ```
 
 1.  **Install the dependencies.**
